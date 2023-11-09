@@ -9,7 +9,7 @@
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build",
-      "program": "${workspaceFolder}/BddWithSpecFlow.GeekPizza.Web/bin/Debug/net5.0/BddWithSpecFlow.GeekPizza.Web.dll",
+      "program": "${workspaceFolder}/BddWithSpecFlow.GeekPizza.Web/bin/Debug/net6.0/BddWithSpecFlow.GeekPizza.Web.dll",
       "args": [],
       "cwd": "${workspaceFolder}/BddWithSpecFlow.GeekPizza.Web",
       "stopAtEntry": false,
